@@ -11,7 +11,6 @@
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.12",
-<<<<<<< HEAD
     "framer-motion": "^12.23.12",
     "keen-slider": "^6.8.6",
     "lucide-react": "^0.542.0",
@@ -24,33 +23,25 @@
     "react-slick": "^0.31.0",
     "slick-carousel": "^1.8.1",
     "tailwindcss": "^4.1.12"
-=======
     "lucide-react": "^0.540.0",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
     "react-helmet-async": "^2.0.5",
     "react-router-dom": "^7.8.1",
     "react-scroll": "^1.9.3"
->>>>>>> 362fadfdf46576b41cad1a87ad0f8eb3f81ef47d
   },
   "devDependencies": {
     "@eslint/js": "^9.33.0",
     "@types/react": "^19.1.10",
     "@types/react-dom": "^19.1.7",
     "@vitejs/plugin-react": "^5.0.0",
-<<<<<<< HEAD
-=======
     "autoprefixer": "^10.4.21",
->>>>>>> 362fadfdf46576b41cad1a87ad0f8eb3f81ef47d
     "eslint": "^9.33.0",
     "eslint-plugin-react-hooks": "^5.2.0",
     "eslint-plugin-react-refresh": "^0.4.20",
     "globals": "^16.3.0",
-<<<<<<< HEAD
-=======
     "postcss": "^8.5.6",
     "tailwindcss": "^4.1.12",
->>>>>>> 362fadfdf46576b41cad1a87ad0f8eb3f81ef47d
     "vite": "^7.1.2"
   }
 }
